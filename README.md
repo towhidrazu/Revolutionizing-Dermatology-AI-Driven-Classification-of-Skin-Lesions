@@ -1,4 +1,8 @@
 # Revolutionizing-Dermatology-AI-Driven-Classification-of-Skin-Lesions
+![SkinLesions](https://github.com/towhidrazu/Revolutionizing-Dermatology-AI-Driven-Classification-of-Skin-Lesions/blob/main/outputfor%20edit.png)
+
+YouTube video link: https://youtu.be/DpZiTNazic8?si=QYpZhDElYRotk5K0
+
 Skin diseases comprise 1.79% of the global burden of disease. Due to the variation in skin tone, texture, body hair, etc., the accurate diagnosis of specific skin diseases is an intriguing task. Skin lesions can vary in diverse conditions, from benign growth to malignant
 cancers. Also, these can have varying shapes, sizes, colors, and vague boundaries of some lesions.
 
@@ -20,6 +24,3 @@ B. Non-Cancerous
 6. Benign Keratosis (BKL)
 7. Dermatofibroma (DF)
 8. Vascular Lesion (VASC)
-
-### Sample photos of those types of skin lesions from the dataset.
-![SkinLesions]9https://github.com/towhidrazu/Revolutionizing-Dermatology-AI-Driven-Classification-of-Skin-Lesions/blob/main/outputfor%20edit.png)
