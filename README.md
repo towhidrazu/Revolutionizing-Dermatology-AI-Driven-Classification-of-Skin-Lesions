@@ -22,4 +22,4 @@ B. Non-Cancerous
 8. Vascular Lesion (VASC)
 
 ### Sample photos of those types of skin lesions from the dataset.
-
+![SkinLesions]9https://github.com/towhidrazu/Revolutionizing-Dermatology-AI-Driven-Classification-of-Skin-Lesions/blob/main/outputfor%20edit.png)
